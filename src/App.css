@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+  
+  background-size: 130% 100%;
+  background-position: left;
+  }
+
+
+.input-box {
+
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+
+
+
+.h1 {
+
+  
+  font-size: 70px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin: 0;
+  border: none;
+  border-radius: 0;
+
+
+}
+
+
+
+
+.label1 {
+
+  
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color:transparent;
+  font-weight: bolder;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  
+}
+
+
+
+.delete_button {
+
+  background-color: #ffffff ;
+
+  cursor: pointer;
+  
+  
+  
+  
+  
+}
+
+.delete_button:hover {
+  background-color:rgb(103, 235, 255) ;
+  transform: scale(1.5);
+  ;
+}
+
